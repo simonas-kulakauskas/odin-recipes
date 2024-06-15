@@ -22,7 +22,10 @@ strong {
 }
 
 * {
+    margin: 1rem;
+    padding: 0.5rem;
     font-family: 'Courier New', Courier, monospace;
+    border: 2px;
 }
 
 .list-heading {
@@ -35,4 +38,15 @@ img {
 
 a {
     font-size: 25px;
+}
+
+li {
+    padding: 0rem;
+}
+
+.recipe-header {
+    padding-bottom: 1rem;
+    margin: 0;
+    border: auto;
+    text-align: center;
 }

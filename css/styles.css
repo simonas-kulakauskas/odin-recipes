@@ -1,0 +1,38 @@
+h1 {
+    color: black;
+    font-size: 50px;
+}
+
+h2 {
+    color: #0f0f0f;
+    font-size: 35px;
+}
+
+h3 {
+    color: #1d1f1e;
+    font-size: 25px;
+}
+
+h4 {
+    color: #303331;
+}
+
+strong {
+    color: #590c12;
+}
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.list-heading {
+    font-size: 25px;
+}
+
+img {
+    border-radius: 8px;
+}
+
+a {
+    font-size: 25px;
+}

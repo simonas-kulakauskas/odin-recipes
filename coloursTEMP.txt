@@ -1,6 +1,0 @@
-H1 tag colour: Black #000000
-H2 tag colour: Dark Grey #0f0f0f
-H3 tag colour: Less Dark Grey #1d1f1e
-H4 tag colour: Light Grey #303331
-Strong tag colour: Dark Red #590c12
-Font: font-family: 'Courier New', monospace;

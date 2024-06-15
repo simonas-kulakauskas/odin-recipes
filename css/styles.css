@@ -45,8 +45,9 @@ li {
 }
 
 .recipe-header {
+    padding-top: 0;
+    margin-top: 0;
     padding-bottom: 1rem;
     margin: 0;
-    border: auto;
     text-align: center;
 }
